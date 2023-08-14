@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circulo
+comment1.params=x\ y\ r
+comment1.target=Circulo(double,\ double,\ double)
+comment2.params=x\ y
+comment2.target=void\ setLocation(double,\ double)
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment5.params=n
+comment5.target=double\ validInput(double)
+numComments=6
